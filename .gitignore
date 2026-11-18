@@ -1,0 +1,9 @@
+__pycache__/
+out/
+*.mp4
+node_modules/
+whisper.cpp/
+captions/public/*.json
+captions/whisper-install.log
+# Remotion caption template: has no license, so it stays on this Mac
+captions/

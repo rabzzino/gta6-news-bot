@@ -1,0 +1,3 @@
+# Twitch channel names you're allowed to clip, one per line.
+# Only add a streamer once you've joined their clipping campaign
+# (e.g. on Content Rewards or Whop) or they've told you that you can clip them.
