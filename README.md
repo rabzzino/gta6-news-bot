@@ -56,7 +56,7 @@ If you're using the python.org build of Python on a Mac and every feed fails wit
 
 ## Changing sources
 
-Edit `FEEDS` in `bot.py`; any RSS feed works. The `GTA6` pattern decides which headlines count.
+Edit `FEEDS` in `bot.py`; any RSS feed works. The `GTA6` pattern decides which headlines count. The bot commits `seen.json` on every run, so run `git pull` before you push a change of your own.
 
 ## Clips (runs on your Mac)
 
